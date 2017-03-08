@@ -1,0 +1,15 @@
+ 0.0e+00    0.000e+00   0.00e+00   0.00e+00   2e+32 
+ 6.25e+10   0.000e+00   0.00e+00   5.66e+05   6e+24 
+-6.25e+10   0.000e+00   0.00e+00  -5.66e+05   6e+24 
+ 0         6.250e+10  -5.66e+05   0.00e+00   6e+24 
+ 0        -6.250e+10   5.66e+05   0.00e+00   6e+24 
+ 1.414e+11  1.414e+11   1.20e+05  -1.20e+05   2e+24 
+-1.414e+11  1.414e+11   1.20e+05   1.20e+05   2e+24 
+ 1.414e+11 -1.414e+11  -1.20e+05  -1.20e+05   2e+24 
+-1.414e+11 -1.414e+11  -1.20e+05   1.20e+05   2e+24 
+Cre+ator of the unive+rse: Ale+x 
+Ke+vin Wayne is the ce+nter of the solar syste+m. The+re are 8 plane+ts, 4 
+in e+lliptical orbits in one dire+ction, and 4 othe+rs rotating in a 
+dire+ction with e+ven more e+lliptical orbits. I use+d the 
+V(orb)=sqrt(G*mass(sun)/r) and V(e+sc)=sqrt(2*G*mass(sun)/r) and found a value 
+be+tween to cre+ate an e+lliptical 

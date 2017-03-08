@@ -1,0 +1,57 @@
+ 1.000e+11  0.000e+00  0.000e+00  -2.52664e+05 1.000e+32 
+-1.000e+11  0.000e+00  0.000e+00   2.52664e+05 1.000e+32 
+ 0.000e+00  1.000e+11  2.52664e+05 0.000e+00   1.000e+32 
+ 0.000e+00 -1.000e+11 -2.52664e+05 0.000e+00   1.000e+32 
+ 1.000e+07  0.000e+00  0.000e+00   0.000e+00   1.000e+01 
+ 0.000e+00  1.000e+07  0.000e+00   0.000e+00   1.000e+01 
+-1.000e+07  0.000e+00  0.000e+00   0.000e+00   1.000e+01 
+ 0.000e+00 -1.000e+07  0.000e+00   0.000e+00   1.000e+01 
+ 1.000e+13  1.000e+13 -1.000e+06  -1.000e+06   2.000e+32 
+ 1.000e+13 -1.000e+13 -1.000e+06   1.000e+06   2.000e+32 
+-1.000e+13  1.000e+13  1.000e+06  -1.000e+06   2.000e+32 
+-1.000e+13 -1.000e+13  1.000e+06   1.000e+06   2.000e+32 
+ 0.000e+00  1.414e+13  0.000e+00  -1.414e+06   2.000e+22 
+ 0.000e+00 -1.414e+13  0.000e+00   1.414e+06   2.000e+22 
+-1.414e+13  0.000e+00  1.414e+06   0.000e+00   2.000e+22 
+ 1.414e+13  0.000e+00 -1.414e+06   0.000e+00   2.000e+22 
+// This is a good te+st case for se+eing if the positions are be+ing 
+// 
+// If the+re is one big force loop (i.e+., program update+s 
+// be+fore computing all the ne+w force+s) the bodie+s will fly 
+// ve+ry 
+// If e+verything is corre+ct, the sce+nario will play out (four 
+// e+merge from ce+nter, suns and plane+ts dance around until suns 
+// plane+ts dance a bit more until black hole+s come and 
+// flie+s off the 
+Michae+l Ge+lbart Fall 
+This unive+rse is a bit of an optical illusion at first. It starts out 
+4 plane+ts suppose+dly orbiting the sun, but the+y are actually just 
+around the+ir common ce+nter of mass, locate+d e+xactly whe+re the "sun" is. 
+de+termine the+se orbits I calculate+d what ve+locities the+y must have base+d 
+the radius of orbit and the+ir masse+s. I did this by e+quating 
+force to the total gravitational force (the sum of all the 
+compone+nts of the force+s from the othe+r 3 plane+ts - the 
+compone+nts cance+l 
+Afte+r a short amount of time+, the sun "splits" into four, as the+re 
+actually 4 suns on top of e+ach othe+r, e+ach one with a small initial 
+in a diffe+rent dire+ction. The+se "suns" are all se+t to ne+gligible mass (10 
+so that the+y do not apply any significant gravitational force on e+ach 
+or on the plane+ts (if the+y we+re he+avy the+y would all imme+diately fly 
+at the be+ginning). Howe+ver, be+cause we know a = F/m and F is proportional 
+mass, the acce+leration (which the+n de+fines ve+locity and position) 
+inde+pendent of the mass of the suns and the+refore the+y are affe+cted by 
+gravitational pull of othe+r plane+ts as if the+y we+re ve+ry 
+Anothe+r inte+resting thing about this unive+rse is the be+haviour of the 4 
+afte+r the+y le+ave the ce+nter of the plane+tary orbits. E+ach one flie+s 
+circle+s around a plane+t, come+s back into the middle+, and pause+s for a 
+time+. This proce+ss re+peats a fe+w time+s until finally the suns fly out of 
+scre+en. The e+ntire be+haviour just de+scribed is ve+ry inte+resting to 
+and, at le+ast to me+, is not at all what I would have e+xpected. The 
+is e+specially counte+r-intuitive as one would think it would re+quire 
+pre+cise 
+Shortly afte+r the suns de+part, e+ight black hole+s (which are not 
+black hole+s as the+y actually have masse+s e+qual to the that of the 
+fly through the scre+en at a high spe+ed (the+y start ve+ry far 
+causing the plane+ts to pull inward and the+n fly out towards the 
+In conclusion, the main point of inte+rest in the unive+rse is the 
+optical illusion, but the re+st of it looks quite ne+at, 

@@ -1,0 +1,27 @@
+2.20e+11 0.000e+00 0.000e+00 2.000e+04 5.974e+24 
+0.000e+00 2.20e+11 -2.000e+004 0.000e+00 6.419e+23 
+-2.20e+11 0.000e+00 0.000e+00 -2.000e+04 3.302e+23 
+0.000e+00 0.000e+00 0.000e+00 0.000e+00 1.989e+30 
+0.000e+00 -2.20e+11 2.000e+04 0.000e+00 4.869e+24 
+2.20e+11 2.20e+11 0.000e+00 2.000e+04 5.974e+24 
+-2.20e+11 2.20e+11 -2.000e+004 0.000e+00 6.419e+23 
+-2.20e+11 -2.20e+11 0.000e+00 -2.000e+04 3.302e+23 
+2.20e+11 -2.20e+11 2.000e+04 0.000e+00 4.869e+24 
+1.10e+11 1.10e+11 0.000e+00 2.000e+04 5.974e+24 
+-1.10e+11 1.10e+11 -2.000e+004 0.000e+00 6.419e+23 
+-1.10e+11 -1.10e+11 0.000e+00 -2.000e+04 3.302e+23 
+1.10e+11 -1.10e+11 2.000e+04 0.000e+00 4.869e+24 
+1.10e+11 0.000e+00 0.000e+00 2.000e+04 5.974e+24 
+0.000e+00 1.10e+11 -2.000e+004 0.000e+00 6.419e+23 
+-1.10e+11 0.000e+00 0.000e+00 -2.000e+04 3.302e+23 
+0.000e+00 -1.10e+11 2.000e+04 0.000e+00 4.869e+24 
+Cre+ator of unive+rse: Zachary Kre+ider, COS 126, Fall 
+    Starts with the four se+ts of the four plane+ts 
+    plane+ts.txt (e+arth, mars, me+rcury, and ve+nus) arrange+d in 
+    around the sun.  The square+s rotate around the sun while the 
+    from e+ach point on the square to the sun oscillate+s.  Ove+r time+, 
+    to the diffe+rent masse+s of e+ach plane+t in e+ach square+, the 
+    de+teriorate into a chaotic group of particle+s tracing 
+    re+volutions about the sun at diffe+rent distance+s and pe+riods. 
+    calle+d my unive+rse "E+ntropy Unive+rse" be+cause of this gradual 
+    into 

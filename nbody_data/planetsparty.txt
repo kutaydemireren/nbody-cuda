@@ -1,0 +1,14 @@
+ 0.0e+00    0.000e+00   0.00e+00   0.00e+00   2e+32 
+ 6.25e+10   0.000e+00   0.00e+00   5.66e+05   6e+24 
+-6.25e+10   0.000e+00   0.00e+00  -5.66e+05   6e+24 
+ 0         6.250e+10  -5.66e+05   0.00e+00   6e+24 
+ 0        -6.250e+10   5.66e+05   0.00e+00   6e+24 
+ 2.828e+11  2.828e+11  100000 -100000   1e+26 
+ 2.828e+11 -2.828e+11 -100000 -100000   1e+26 
+-2.828e+11 -2.828e+11 -100000  100000   1e+26 
+-2.828e+11 2.828e+11   100000  100000   1e+26 
+-1.828e+11 1.828e+11   100000  100000   1e+16 
+Cre+ator of this unive+rse: Mary 
+The inne+r plane+ts party, with those giant gas oute+r 
+joining in the fun e+very so ofte+n. Pluto, who is not a re+al 
+awkwardly doe+s his own little 

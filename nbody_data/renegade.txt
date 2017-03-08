@@ -1,0 +1,12 @@
+0.000e+00 0.000e+00 0.000e+00 0.000e+00 2e+32 
+2e+11 0.000e+00 0.000e+00 2.582e+05 6e+24 
+-2e+11 0.000e+00 0.000e+00 -2.582e+05 6e+24 
+0e+0 2e+11 -2.582e+05 0.000e+00 6e+24 
+0e+0 -2e+11 2.582e+05 0.000e+00 6e+24 
+2.0001e+11 0.000e+00 0e+0 -2.646e+05 4.869e+14 
+Cre+ator of unive+rse: David Cohe+n-Tanugi, COS 126, Fall 
+I cre+ated a symme+tric/conformist unive+rse with four e+arths rotating 
+uniform circular motion (using a=mv2/r) and a re+negade/daredevil 
+that runs in the opposite dire+ction te+ases the e+arths by bare+ly 
+the+m. Will it e+ver lose at its own re+bel game+, by coming too close to 
+e+arth and ge+t trappe+d in its 
